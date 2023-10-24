@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <form>
+
+        <!-- gruppo anagrafica -->
+
+        <fieldset>
+            <legend>Anagrafica</legend>
+            <label for="nome">Nome </label>
+            <input type="text" id="nome" name="nome" required>
+            <label for="cognome">Cognome </label>
+            <input type="text" id="cognome" name="cognome" required>
+            <label for="data_di_nascita">Data di nascita </label>
+            <input type="date" id="data" name="data" required>
+            <p></p>
+            <label for="indirizzo">Indirizzo </label>
+            <textarea name="indirizzo" id="indirizzo"></textarea>
+            <p></p>
+            <label for="telefono">Telefono </label>
+            <input type="tel" id="telefono" name="telefono">
+            <label for="email">Email </label> 
+            <input type="email" id="email" name="email" placeholder="Inserisci la Tua Email" required>
+            <label for="password">Scegli Password </label>
+            <input type="password" id="password" name="password" maxlength="16" minlength="8" required>
+        </fieldset>
+
+        <!-- gruppo competenze -->
+
+        <fieldset>
+            <legend>Competenze</legend>
+            <input type="checkbox" name="html" id="html">
+            <label for="html">HTML </label> <br />
+            <input type="checkbox" name="css" id="css">
+            <label for="css">CSS </label><br />
+            <input type="checkbox" name="javascript" id="javascript">
+            <label for="javascript">Javascript </label><br />
+            <input type="checkbox" name="php" id="php">
+            <label for="php">PHP </label><br />
+        </fieldset>
+
+        <!-- gruppo tipo corso -->
+
+        <fieldset>
+            <legend>Tipologia di corso</legend>
+            <label for="corso">Corso scelto</label>
+            <select name="corso" id="corso" required>
+                <!-- quello che arriva è nel value -->
+                <option value="" selected></option>
+                <option value="frontEnd">Front-End</option>
+                <option value="backEnd">Back-End</option>
+                <option value="fullStack">Full Stack</option> 
+            </select>
+            <p></p>
+            <label for="durata">Tipo di corso </label> <br />
+            <input type="radio" id="part_time_mat" name="durata">
+            <label for="partTimeMat">Part-time (Mattina)</label><br />
+            <input type="radio" id="part_time_ser" name="durata">
+            <label for="partTimeSer">Part-time (Serale)</label><br />
+            <input type="radio" id="full_time" name="durata">
+            <label for="fullTime">Full-time</label><br />
+            <p></p>
+            <label for="pagamento">Numero rate </label>
+            <input type="number" id="pagamento" name="pagamento" size="50" placeholder="nr" min="3" max="6">
+        </fieldset>
+    </form>
+
+</body>
+</html>
