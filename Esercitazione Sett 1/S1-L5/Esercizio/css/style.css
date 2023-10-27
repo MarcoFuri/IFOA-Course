@@ -1,0 +1,176 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+/* HEADER */
+#logo {
+    background-color: black;
+    width: 100vw;
+}
+
+#logo img {
+    width: 28vw;
+    padding: 2rem 0;
+}
+
+#sottotitolo_logo {
+    width: 83vw;
+    margin: 0;
+    background-image: url(../images/banner.jpg);
+    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 2.5rem 3rem;
+}
+
+h1, h2, h4, h5 {
+    color: #25a2c3;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    padding: 0.8rem 2rem;
+    background-color: #f04c2f;
+    color: white;
+    border: 0;
+    border-radius: 4px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #e23517;
+}
+
+/* div contenitore */
+
+/* MAIN */
+
+main {
+    padding: 3rem;
+}
+
+
+main img {
+    border-radius: 50%;
+    width: 70vw;
+    margin: 1rem;
+}
+/* SECTION */
+
+section {
+    background-color: #f04c2f;
+    color: white;
+    padding: 2rem 2rem 1rem;
+}
+
+#section_title {
+    color: white;
+    font-size: 2.5rem;
+}
+
+#cite_author {
+    font-size: 1.5rem;
+}
+
+#cite_author span{
+    font-size: 1rem;
+}
+
+section div p {
+    line-height: 1.2;
+}
+
+/* ASIDE */
+
+article {
+    border: 1px solid #dee1e3;
+    width: 80vw;
+    margin: auto;
+    margin-bottom: 2.5rem;
+}
+
+article:hover {
+    box-shadow: 2px 2px 8px rgba(163, 163, 163, 0.499);
+    cursor: pointer;
+}
+
+article img {
+    width: 80vw;
+}
+
+article p {
+    padding: 0 2rem 2rem;
+}
+
+#art_1 {
+    margin-top: 5rem;
+}
+
+
+/* FOOTER */
+footer {
+    padding: 1rem 1rem 4rem;
+    background-color: #25a2c3;
+    color: white;
+}
+
+footer h2 {
+    background-color: #25a2c3;
+    color: white;
+    font-size: 2.5rem;
+}
+
+footer hr {
+    width: 40vw
+}
+
+ul {
+    list-style-position: inside;
+    list-style: none;
+    padding: 0;
+}
+
+ul a {
+    color: white;
+}
+
+#item_1 i, #item_2 i{
+    background-color: white;
+    color: #25a2c3;
+    padding: 8px 3px;
+    border-radius: 3px;
+}
+
+footer p {
+    font-size: 0.9em;
+    padding-top: 1rem;
+}
+
+footer p a {
+    color: white;
+    cursor: pointer;
+}
+
+footer p a:hover, #item_2 a:hover, #item_1:hover {
+    color: rgb(212, 238, 255);
+    cursor: pointer;
+}
+
+#item_3 i{
+    font-size: 1.2rem; 
+}
+
+
+
