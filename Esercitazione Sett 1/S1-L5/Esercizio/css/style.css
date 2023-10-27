@@ -48,6 +48,11 @@ button {
     border-radius: 4px;
 }
 
+button a {
+    color: white;
+    text-decoration: none;
+}
+
 button:hover {
     cursor: pointer;
     background-color: #e23517;
@@ -146,6 +151,10 @@ ul a {
     color: white;
 }
 
+address {
+    font-style: normal;
+}
+
 #item_1 i, #item_2 i{
     background-color: white;
     color: #25a2c3;
@@ -170,6 +179,10 @@ footer p a:hover, #item_2 a:hover, #item_1:hover {
 
 #item_3 i{
     font-size: 1.2rem; 
+}
+
+.info {
+    text-decoration: underline;
 }
 
 
