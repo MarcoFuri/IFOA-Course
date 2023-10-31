@@ -93,9 +93,9 @@ if (totalCostBlackFriday >= 50){
 
 // /* SCRIVI QUI LA TUA RISPOSTA */
 
-let num7 = 5
-let num8 = 4
-let num9 = 8
+let num7 = 12;
+let num8 = 4;
+let num9 = 8;
 let highestNumber;
 let mediumNumber;
 let lowestNumber;
@@ -109,7 +109,7 @@ if (num7 >= num8 && num7 >= num9){
     lowestNumber = num9;
   } else {
     mediumNumber = num9;
-    lowestNumner = num8;
+    lowestNumber = num8;
   } 
 }
 
