@@ -44,11 +44,9 @@ if(num4 % 5 === 0){
 let num5 = 7;
 let num6 = 8;
 
-if(num5 === 8 || num6 === 8){
+if(num5 === 8 || num6 === 8 || num5 + num6 === 8 || num5 - num6 === 8 || num6 - num5 === 8){
   console.log("Uno dei due numeri forniti è uguale a 8");
-}
-
-if(num5 + num6 === 8){
+} else {
   console.log("La somma dei numeri forniti è uguale a 8");
 }
 
