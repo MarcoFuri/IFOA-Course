@@ -58,14 +58,14 @@ if(num5 === 8 || num6 === 8 || num5 + num6 === 8 || num5 - num6 === 8 || num6 - 
 
 // /* SCRIVI QUI LA TUA RISPOSTA */
 let totalShoppingCart = 65;
-let freeDelivery = false;
+let totalExpense;
 
 if(totalShoppingCart >= 50){
-  freeDelivery = true;
+  totalExpense = totalShoppingCart
   console.log("Congratulation for reaching the minimum of 50€! For you the delivery is free!");
 } else {
-  totalShoppingCart += 10;
-  console.log("Thanks for your purchases! Here's your expenses with the delivery: " + totalShoppingCart);
+  totalExpense = totalShoppingCart + 10;
+  console.log("Thanks for your purchases! Here's your expenses with the delivery: " + totalExpense);
 }
 
 // /* ESERCIZIO 6
@@ -75,14 +75,14 @@ if(totalShoppingCart >= 50){
 
 // /* SCRIVI QUI LA TUA RISPOSTA */
 
-let totalCostBlackFriday;
 
-if (freeDelivery === true){
-  totalCostBlackFriday = totalShoppingCart - (20/100);
-  console.log("Your new total is " + totalCostBlackFriday + ", enjoy!")
+let totalCostBlackFriday = totalShoppingCart - (20/100)
+
+if (totalCostBlackFriday >= 50){
+  console.log("Congratulation for reaching the minimum of 50€! For you the delivery is free!");
 } else {
-  totalCostBlackFriday = ((totalShoppingCart - 10) - (20/100)) + 10;
-  console.log("Your new total is " + totalCostBlackFriday + ", enjoy!")
+  totalExpense = totalCostBlackFriday + 10
+  console.log("Thanks for your purchases! Here's your expenses with the delivery: " + totalExpense);
 }
 
 // /* ESERCIZIO 7
