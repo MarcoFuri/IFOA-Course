@@ -248,7 +248,7 @@ let randomNumber = Math.floor(Math.random() * starWarsCharacters.length)
 let selectedCharacter = starWarsCharacters[randomNumber]
 
 console.log("The selected character is: " + selectedCharacter.name + ". It's " + selectedCharacter.height 
-+ "cm and its weights " + selectedCharacter.mass + " pounds. Its hair is " 
++ "cm and it weights " + selectedCharacter.mass + " pounds. Its hair is " 
 + selectedCharacter.hair_color + ", its skin is " + selectedCharacter.skin_color + " and its eyes are " 
 + selectedCharacter.eye_color + ". It's born in " + selectedCharacter.birth_year + " and its gender is " + 
 selectedCharacter.gender + "." 
