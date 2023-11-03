@@ -83,7 +83,7 @@ console.log(boundary(401))
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-function epifany(stringa){
+function epify(stringa){
     if(stringa.indexOf("EPICODE") !== 0){
         return "EPICODE " + stringa;
     } else {
@@ -91,7 +91,7 @@ function epifany(stringa){
     }
 }
 
-console.log(epifany("ciao mondo"))
+console.log(epify("ciao mondo"))
 
 /* ESERCIZIO 6
  Scrivi una funzione di nome "check3and7" che accetta un numero positivo come parametro. La funzione deve controllare che il parametro sia un multiplo
