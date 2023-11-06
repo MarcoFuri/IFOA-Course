@@ -150,7 +150,7 @@ for(let i = 0 ; i < charactersArray.length ; i++){
       break;
 
     case 'c':
-      newCharactersArray.push(31)
+      newCharactersArray.push(3)
       break;
 
     case 'd':
