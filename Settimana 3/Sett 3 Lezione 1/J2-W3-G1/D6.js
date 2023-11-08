@@ -272,13 +272,8 @@ console.log(filmMillennioCorrente)
   Scrivi una funzione per calcolare la somma di tutti gli anni in cui sono stati prodotti i film contenuti nell'array fornito.
 */
 
-function sommaAnniFilm(array){
-  let sum = 0;
-  for(let i = 0; i < array.length ; i++){
-  sum += array.reduce((totale, valore) => 
-  0 + parseInt(movies[i].Year))
-  }
-  return sum;
+const sommaAnniFilm = (array) => {
+  return array.reduce((valore, elemento) => valore + parseInt(elemento.Year))
 }
 
 console.log(sommaAnniFilm(movies))
@@ -287,21 +282,32 @@ console.log(sommaAnniFilm(movies))
   Scrivi una funzione per ottenere dall'array fornito uno specifico film (la funzione riceve un imdbID come parametro).
 */
 
-function filmSpecifico(parImdbID){
-movies.find(function (el) {
-  let specificFilm;
-  for(let i = 0 ; i < movies.length ;){
-    if(movies[i].imdbID === parImdbID){
-      specificFilm = movies[i]
-      } else {
-        i++
-      }
-    } 
-    return specificFilm
-  })
+const cercaFilm = (array, id) => {
+  return array.find((film) => film.imdbID === id);
 }
-console.log(filmSpecifico('tt4154796'))
+
+console.log(cercaFilm(movies, 'tt4154796'))
+
+// ESERCIZIO 14B: Ricerca su selezione
+
+movies.forEach((film) => {
+  document.getElementById("imdbID").innerHTML += `<option value="${film.imdbID}">${film.Title} - Anno ${film.Year}</option>`;
+});
+
+function cerca(){
+  let imdbID = document.getElementById("imdbID").value;
+  mioFilm = movies.find((element) => element.imdbID === imdbID);
+  document.getElementById("titolo").innerHTML = mioFilm.Title
+  document.getElementById("anno").innerHTML = mioFilm.Year
+  document.getElementById("poster").setAttribute("src", mioFilm.Poster)
+}
 
 /* ESERCIZIO 15 (findIndex)
   Scrivi una funzione per ottenere dall'array fornito l'indice del primo film uscito nell'anno fornito come parametro.
 */
+
+const cercaAnno = (array, anno) => {
+  return array.findIndex((element) => parseInt(element.Year) === anno);
+}
+
+console.log(cercaAnno(movies, 2001))
