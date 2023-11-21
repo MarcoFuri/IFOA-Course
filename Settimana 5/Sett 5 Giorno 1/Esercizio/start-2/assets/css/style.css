@@ -297,3 +297,24 @@ footer a {
     }
  
 }
+
+
+@media print {
+
+    header,
+    iframe,
+    section,
+    aside,
+    footer {
+        display: none;
+    }
+
+    header h1 {
+        font-size: 1rem;
+    }
+
+    main {
+        box-shadow: none;
+    }
+
+}
