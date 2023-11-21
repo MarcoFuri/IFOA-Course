@@ -1,0 +1,41 @@
+#container {
+    width: 650px;
+    height: 650px;
+}
+
+.casella {
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    display: inline-block;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.771);
+}
+
+#estrai {
+    display: none;
+}
+
+.cardsContainer {
+    margin: 0;
+    padding: 0;
+}
+
+#card {
+    width: 450px;
+    height: 200px;
+    display: inline-block;
+}
+
+.cell {
+    width: 80px;
+    height: 65px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+    padding-top: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.771);
+    font-weight: bold;
+}

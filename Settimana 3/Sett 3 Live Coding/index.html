@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <div class="container">
+        <main>
+            <!-- calendario, form per i nuovi appuntamenti -->
+            <h1></h1>
+            <div id="calendar">
+                <!-- celle generate da JS -->
+        
+            </div>
+            
+            <h2>Aggiungi appuntamento</h2>
+            <div id="addMeeting">
+                <div>
+                    <h4>Giorno</h4>
+                    <span id="newMeetingDay">Clicca su un giorno</span>
+                </div>
+                <form>
+                    <div>
+                        <h4>Ora Appuntamento</h4>
+                        <input type="time" required id="newMeetingTime">
+                    </div>
+                    <div>
+                        <h4>Aggiungi Appuntamento</h4>
+                        <input type="text" id="newMeetingName" placeholder="insert name meeting" >
+                    </div>
+                    <div>
+                        <h4>Aggiungi</h4>
+                        <button type="submit">Salva</button>
+                    </div>
+                </form>
+            </div>
+
+
+        </main>
+        <section>
+            <div id="appointments">
+                <h2>Appuntamenti del giorno</h2>
+                <ul>
+                    <!-- lista appuntamenti generata da JS -->
+                </ul>
+            </div>
+        </section>
+    </div>
+
+
+
+    <script src="assets/script.js"></script>
+</body>
+</html>
