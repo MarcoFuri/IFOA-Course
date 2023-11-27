@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e2d0a3-4449-4a21-b8d0-63663aa3b71f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Settimana 4/Build-Week" beforeDir="false" afterPath="$PROJECT_DIR$/Settimana 4/Build-Week" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Settimana 4/Build-Week/assets/JS/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 1/Esercizio/start-2/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 1/Esercizio/start-2/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Esercitazione/S5-P-Medium-Clone-Start/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Esercitazione/S5-P-Medium-Clone-Start/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 3/Esercizio/Complete Layout/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 3/Esercizio/Complete Layout/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 3/Esercizio/Flexible Article/article.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 3/Esercizio/Flexible Article/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 3/Esercizio/Navigation Bar/nacbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 3/Esercizio/Navigation Bar/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 3/Esercizio/Product Card/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 3/Esercizio/Product Card/card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +27,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -73,6 +82,8 @@
       <updated>1700642067195</updated>
       <workItem from="1700642070679" duration="15114000" />
       <workItem from="1700661643814" duration="512000" />
+      <workItem from="1700744827423" duration="16495000" />
+      <workItem from="1700820368055" duration="34976000" />
     </task>
     <servers />
   </component>
