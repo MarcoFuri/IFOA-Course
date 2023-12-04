@@ -1,0 +1,11 @@
+#action_1:hover,
+#action_2:hover,
+#action_3:hover {
+  background-color: white !important;
+  color: black !important;
+  font-weight: 600 !important;
+}
+
+.h6 {
+  font-size: 0.8rem !important;
+}/*# sourceMappingURL=profile.css.map */
