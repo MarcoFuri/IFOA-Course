@@ -6,13 +6,13 @@ class User {
         this.location = _location
     }
 
-    comparison(user1, user2){
-        if (user1.age > user2.age){
-            console.log(`${user1.firstName} is older than ${user2.firstName}`)
-        } else if (user1.age < user2.age){
-            console.log(`${user2.firstName} is older than ${user1.firstName}`)
+    comparison(user){
+        if (this.age > user.age){
+            console.log(`${this.firstName} is older than ${user.firstName}`)
+        } else if (this.age < user.age){
+            console.log(`${user.firstName} is older than ${this.firstName}`)
         } else {
-            console.log(`${user1.firstName} and ${user2.firstName} have the same age`)
+            console.log(`${this.firstName} and ${user.firstName} have the same age`)
         }
     }
 
@@ -21,7 +21,7 @@ class User {
 const user1 = new User("Marco", "Furi", 30, "Milano")
 const user2 = new User("Stefania", "Galazzo", 34, "Torino")
 
-user1.comparison(user1, user2)
+user1.comparison(user2)
 
 class Pet {
     constructor(_petName, _ownerName, _species, _breed){
@@ -31,8 +31,8 @@ class Pet {
         this.breed = _breed
     }
 
-    static checkIfSameOwner(pet1, pet2){
-        if (pet1.ownerName === pet2.ownerName){
+    static checkIfSameOwner(pet){
+        if (this.ownerName === pet.ownerName){
             console.log(true)
         } else {
             console.log("They have different owners")
