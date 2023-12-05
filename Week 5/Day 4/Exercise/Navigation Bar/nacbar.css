@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #612406;
+}
+
+
+.navbar {
+    display: flex;
+    background-color: #fbf7e3;
+    border-radius: 150px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 2rem;
+}
+
+.section {
+    background-color: #f3df85;
+    border-radius: 200px;
+    padding: 0 1rem;
+    margin: 2rem 0;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.section h3 {
+    font-weight: 400;
+}
+
+.shop {
+    display: flex;
+    background-color: #f3df85;
+    border-radius: 200px;
+    padding: 1rem 1.5rem;
+    margin: 2rem 0;
+    gap: 40px;
+}
+
+.shop img {
+    width: 60px;
+}
+
+.section:hover,
+.shop:hover {
+    cursor: pointer;
+    background-color: #ffe92c;
+}

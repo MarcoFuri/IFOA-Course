@@ -1,0 +1,180 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
+
+html, body {
+    background-image: url("../img/sfondo.png");
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+/* HEADER */
+header {
+    width: 84vw;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(#009ac0, #116887);
+    margin: 2rem;
+    padding: 3rem;
+    box-shadow: 1px 4px 10px rgb(105, 105, 105);
+}
+
+#sottotitolo_logo {
+    font-size: 2rem;
+}
+
+#links_header a {
+    color: white;
+}
+
+#links_header a:hover {
+    color: rgb(255, 173, 173);
+}
+
+#links_header > ul {
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+.fa-star {
+    margin: 6px;
+    font-size: 5px;
+    text-align: center;
+}
+
+/* MAIN */
+
+#contenitore {
+    width: 90vw;
+    background-color: white;
+    margin: 2rem;
+    padding: 0.7rem;
+    box-shadow: 1px 4px 10px rgb(144, 144, 144);
+}
+
+main p:first-child {
+    font-size: 1.5rem;
+}
+
+#autore {
+    color: #9ea3a0;
+}
+
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+.viola {
+    color: #aa2072;
+}
+
+.enhanced {
+    background-color: #dde2e3;
+    border: 1px solid rgb(134, 131, 131);
+    border-radius: 5px;
+}
+
+/* TABELLE */
+
+table {
+    border-collapse: collapse;
+}
+
+#intestazione {
+    background-color: #3366cc;
+    color: white;
+}
+
+
+.dispari {
+    background-color: #eeeeee;
+}
+
+.pari, .dispari {
+    border-bottom: 2px solid #d2d1d1;
+}
+
+table tr:last-child {
+    border-bottom: 2px solid #3366cc;
+}
+
+#intro_video a {
+    color: #009bcb;
+}
+
+#intro_video a:hover {
+    color: #47d0fa;
+} 
+
+iframe {
+    width: 90vw;
+    height: 15vh;
+    border-radius: 18px;
+}
+
+/* FORM */
+
+#novità {
+    background-color: #eeeeee;
+    padding: 1em;
+    margin-top: 1.4em;
+}
+
+#novità p:first-child {
+    text-align: center;
+}
+
+input {
+    padding: 0.4em;
+    border: 0;
+    border-bottom: 1px dashed black;
+}
+
+/* ELEMENTI NELL' ASIDE */
+.links_articoli {
+    background-color: #eeeeee;
+    padding: 0.2em 0 1em 1em;
+    border: 1px solid #d2d1d1;
+    margin: 1em;
+}
+
+aside > p {
+    text-align: center;
+}
+
+.parag_articoli a {
+    color: #009bcb;
+}
+
+.parag_articoli a:hover {
+    color: #47d0fa;
+}
+
+.data {
+    text-align: end;
+    margin: 0;
+    padding-right: 1em;
+    padding-bottom: 0;
+    font-size: 0.75em;
+}
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+    background-image: linear-gradient(#05576b, #28393c);
+    color: white;
+    font-size: 0.8em;
+    padding: 1em;
+    width: 90vw;
+    margin-left: 2.3em;
+    margin-bottom: 2em;
+    box-shadow: 1px 4px 10px grey;
+}
+
+footer a {
+    color: #ff00fe;
+}
+
+footer a:hover {
+    color: #ff4fff;
+}
