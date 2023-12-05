@@ -31,8 +31,8 @@ class Pet {
         this.breed = _breed
     }
 
-    static checkIfSameOwner(pet){
-        if (this.ownerName === pet.ownerName){
+    static checkIfSameOwner(pet1, pet2){
+        if (pet1.ownerName === pet2.ownerName){
             console.log(true)
         } else {
             console.log("They have different owners")
