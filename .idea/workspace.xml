@@ -5,266 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e2d0a3-4449-4a21-b8d0-63663aa3b71f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 7/Day 1/Exercise/index-html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IFOA-Course.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/Exercise/images/IMG_6995.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/Exercise/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/Exercise/assets/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/Exercise/assets/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/Exercise/assets/focaccia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/Exercise/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/Exercise/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 4/Exercise/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 4/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise-Desktop/css/style-desktop.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise-Desktop/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise-Desktop/images/foto1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise-Desktop/images/foto2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise-Desktop/images/foto3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise-Desktop/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise-Desktop/images/notebook.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise-Desktop/index-desktop.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise/images/foto1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise/images/foto2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise/images/foto3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise/images/notebook.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/Project/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 1/Exercise/D1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 1/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 2/Exercise/D2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 2/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 3/Exercise/D3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 3/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 4/Exercise/D4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 4/Exercise/Extra/D4-EXTRA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 4/Exercise/Extra/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 4/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/bg-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/bg-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/img_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/img_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/img_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/img_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/img_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/img_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/assets/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/Amazon Page/mockup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/JS Exercises/D5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 5/Project/JS Exercises/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 1/Exercise/D6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 1/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 4/Exercise/Tombola/assets/Js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 4/Exercise/Tombola/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 4/Exercise/Tombola/tombola.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 4/Exercise/assets/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 4/Exercise/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 4/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 5/Project/assets/D10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 5/Project/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Day 5/Project/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4/Build-Week" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 7/Day 1/Exercise/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/screens-2/desktop-view.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/screens-2/medium-view.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/screens-2/mobile-view.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/img/sfondo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 1/Exercise/start-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/screens-1/desktop-view.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/screens-1/medium-view.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/screens-1/mobile-view.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/articolo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/img/badge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/img/sfondo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/img/underline.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 2/Exercise/start-1/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Complete Layout/flex-layout-images/extralarge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Complete Layout/flex-layout-images/medium-large.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Complete Layout/flex-layout-images/medium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Complete Layout/flex-layout-images/mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Complete Layout/flex-layout-images/tablet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Complete Layout/page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Complete Layout/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Flexible Article/article.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Flexible Article/article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Navigation Bar/nacbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Navigation Bar/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Product Card/card.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/Product Card/card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/assets/imgs/honey.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 4/Exercise/assets/imgs/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image01.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image03.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image05.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image07.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image08.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image09.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image10.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image11.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image15.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image18.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image19.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/image20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/svg/bookmark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/svg/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/svg/star.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/imgs/svg/trending.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/assets/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/S5-P-Medium-Clone-Start/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/copy.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/mockups/dettaglio-navbar-scrolled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/mockups/screencapture-desktop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/mockups/screencapture-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 5/Day 5/Project/mockups/screencapture-tablet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 1/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 2/Exercise/FE-U2-S2-L2-Esercizio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 2/Exercise/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 2/Exercise/assets/img/Screenshot 2023-11-29 alle 17.15.02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 2/Exercise/assets/img/image01.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 2/Exercise/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 2/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 3/Exercise/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/avatar-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/avatar-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/avatar-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/avatar-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/avatar-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/avatar-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/avatar-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/avatar-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/bell.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-angular.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-css.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-gatsby.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-graphql.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-html.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-javascript.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-laravel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-node.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-python.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-react.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/course-wordpress.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/feather.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/hero-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/assets/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/mockups/desktop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/mockups/extra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/mockups/mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 4/Exercise/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/css/homePage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/css/homePage.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/css/profile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/css/profile.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/img/Screenshot 2023-12-04 alle 10.29.19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/img/Screenshot 2023-12-04 alle 10.29.28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/img/Screenshot 2023-12-04 alle 10.29.45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/img/kids_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/img/netflix_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media0.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media14.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media16.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media19.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media21.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media22.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media23.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media25.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media26.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media31.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media7.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media8.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/media/media9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/scss/homePage.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/assets/scss/profile.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/homePage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 6/Day 5/Project/Netflix-assets/profile.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 2/Exercise/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 2/Exercise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 2/Lesson/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 2/Lesson/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 2/Minefield/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 2/Minefield/assets/img/bomba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 2/Minefield/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 2/Minefield/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,10 +65,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Settimana 6/Giorno 5/Progetto Settimanale/Netflix-assets/assets/img" />
-      <recent name="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 2/Esercizio" />
-      <recent name="$PROJECT_DIR$/Settimana 5/Sett 5 Giorno 2/Esercizio/start-1" />
-      <recent name="$PROJECT_DIR$/Settimana 5" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 2" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 2/Exercise/Minefield" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 2/Exercise/assets/img" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 2/Exercise/assets" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 2/Exercise/assets/js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -339,6 +89,7 @@
       <workItem from="1701679626289" duration="10021000" />
       <workItem from="1701706757180" duration="629000" />
       <workItem from="1701781938201" duration="258000" />
+      <workItem from="1701851677931" duration="9534000" />
     </task>
     <servers />
   </component>
