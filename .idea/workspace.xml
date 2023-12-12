@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e2d0a3-4449-4a21-b8d0-63663aa3b71f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 7/Day 4/Exercise/Starting-template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7/Day 4/Exercise/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7/Day 4/Exercise/detailPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 5/assets/img/amazon-logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 5/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7/Day 5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 7/Day 3/Exercise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 7/Day 3/Exercise/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,11 +63,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 7/Day 5/assets/img" />
       <recent name="$PROJECT_DIR$/Week 7/Day 4/Exercise" />
       <recent name="$PROJECT_DIR$/Week 7/Day 2" />
       <recent name="$PROJECT_DIR$/Week 7/Day 2/Exercise/Minefield" />
       <recent name="$PROJECT_DIR$/Week 7/Day 2/Exercise/assets/img" />
-      <recent name="$PROJECT_DIR$/Week 7/Day 2/Exercise/assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -91,6 +90,7 @@
       <workItem from="1701851677931" duration="9534000" />
       <workItem from="1702300626589" duration="3699000" />
       <workItem from="1702311251294" duration="3085000" />
+      <workItem from="1702371496816" duration="5393000" />
     </task>
     <servers />
   </component>
