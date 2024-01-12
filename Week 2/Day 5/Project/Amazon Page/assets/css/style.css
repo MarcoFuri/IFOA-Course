@@ -1,0 +1,203 @@
+/* Your styles here */
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0.8rem;
+}
+
+header {
+    width: 100vw;
+}
+
+#logo_header {
+    width: 100%;
+    background-color: #222f3f;
+}
+
+#logo_header img {
+    min-width: 30px;
+    max-width: 70px;
+    padding: 0.3rem 0 0.3rem 1rem;
+}
+
+nav {
+    width: 100%;
+    background-color: #364759;
+    color: white;
+    display: inline-block;
+}
+
+nav h5 {
+    display: inline-block;
+    font-weight: normal;
+    padding: 0.4rem 0 0.4rem 0.8rem;
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+nav h5:first-of-type {
+    padding-left: 1.4rem;
+}
+
+nav h5:hover {
+    cursor: pointer;
+    color: rgb(220, 220, 220);
+}
+
+.container {
+    background-color: #e9edee;
+    margin: 0;
+    padding: 1rem;
+}
+
+main {
+    text-align: center;
+}
+
+#banner {
+    background-color: #f56600;
+    color: white;
+    text-align: center;
+}
+
+#banner h6 {
+    font-weight: normal;
+    padding: 0.3rem;
+    margin: 0.4rem 0 1.3rem 0;
+}
+
+#banner h6:hover {
+    color: rgb(238, 238, 238);
+    cursor: pointer;
+}
+
+#main_title {
+    background-image: url(../images/bg-image.png);
+    background-size: contain;
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+    padding: 2.5rem 0 0.8rem 0;
+    width: 100%;
+}
+
+#main_title h2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+#main_title h5 {
+    font-weight: normal;
+}
+
+#container_schede {
+    background-color: white;
+    margin-top: 1.2rem;
+}
+
+#container_schede > p {
+    font-size: 0.8rem;
+    text-align: start;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+}
+
+span {
+    padding-left: 0.8rem;
+    font-size: 0.7rem;
+    color: #31828d;
+    font-weight: bold;
+}
+
+span:hover {
+    color: #3a9ba8;
+    cursor: pointer;
+}
+   
+.scheda {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 22.2%;
+    max-width: 300px;
+    height: 20vh;
+    display: inline-block;
+    background-position: center;
+    margin-bottom: 1rem;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px rgb(187, 186, 186);
+}
+
+.scheda:hover {
+    cursor: pointer;
+    box-shadow: 4px 4px 12px rgb(150, 150, 150);;
+}
+
+#scheda_1, #scheda_2, #scheda_3 {
+    margin-right: 0.8rem;
+}
+
+#scheda_1 {
+    background-image: url(../images/img_1.jpg);
+} 
+
+#scheda_2 {
+    background-image: url(../images/img_2.jpg);
+}
+
+#scheda_3 {
+    background-image: url(../images/img_3.jpg);
+}
+
+#scheda_4 {
+    background-image: url(../images/img_4.jpg);
+}
+
+section {
+    width: 100%;
+}
+
+article:hover {
+    cursor: pointer;
+}
+
+article img {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 1.2rem;
+}
+
+article p {
+    margin-top: 0.4rem;
+}
+
+#link_footer{
+    width: 100%;
+    background-color: #364759;
+    text-align: center;
+    padding: 0.8rem 0;
+    font-size: 0.8rem;
+}
+
+footer div a {
+    color: white;
+}
+
+footer div a:hover {
+    color: rgb(213, 212, 212);
+    cursor: pointer;
+}
+
+#logo_footer {
+    background-color: #222f3f;
+    width: 100%;
+    text-align: center;
+}
+
+#logo_footer img {
+    width: 12vw;
+    padding: 2.5rem 0;
+}

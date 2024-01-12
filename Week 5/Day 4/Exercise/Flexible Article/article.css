@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #612406;
+}
+
+.article {
+    background-color: #fbf7e3;
+    margin: 2rem;
+    padding: 2rem;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    gap: 30px;
+}
+
+.article img {
+    min-width: 600px;
+    flex: 1 1 600px;
+}
+
+.articleText {
+    letter-spacing: 0.6px;
+    line-height: 1.6rem;
+    flex: 1 1 500px;
+}
+
+

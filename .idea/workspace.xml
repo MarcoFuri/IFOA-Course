@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5e2d0a3-4449-4a21-b8d0-63663aa3b71f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Week 8/Day 2/lesson/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8/Day 2/lesson/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8/Day 2/lesson/todoFunctions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 8/Exercise/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week 8/Day 1/Exercise/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 8/Exercise/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week 8/Day 1/Exercise/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 8/Exercise/boom.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Week 8/Day 1/Exercise/boom.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 8/Exercise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 8/Day 1/Exercise/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 8/Exercise/palla.png" beforeDir="false" afterPath="$PROJECT_DIR$/Week 8/Day 1/Exercise/palla.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Week 7/Day 4/Exercise/Starting-template.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YWWy5ReWV4D2vAyJLydAyApKbb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 8/Day 1" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 5/assets/img" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 4/Exercise" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 2" />
+      <recent name="$PROJECT_DIR$/Week 7/Day 2/Exercise/Minefield" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5e2d0a3-4449-4a21-b8d0-63663aa3b71f" name="Changes" comment="" />
+      <created>1700642067195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700642067195</updated>
+      <workItem from="1700642070679" duration="15114000" />
+      <workItem from="1700661643814" duration="512000" />
+      <workItem from="1700744827423" duration="16495000" />
+      <workItem from="1700820368055" duration="35230000" />
+      <workItem from="1701106305941" duration="1710000" />
+      <workItem from="1701179467002" duration="2495000" />
+      <workItem from="1701679626289" duration="10021000" />
+      <workItem from="1701706757180" duration="629000" />
+      <workItem from="1701781938201" duration="258000" />
+      <workItem from="1701851677931" duration="9534000" />
+      <workItem from="1702300626589" duration="3699000" />
+      <workItem from="1702311251294" duration="3085000" />
+      <workItem from="1702371496816" duration="5393000" />
+      <workItem from="1703232542672" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
