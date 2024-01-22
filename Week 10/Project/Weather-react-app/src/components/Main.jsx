@@ -25,9 +25,9 @@ function Main() {
     const [city, setCity] = useState({})
 
 
-    const fetchData = async (cityToSearch) => {
+    const fetchData = async (citySearched) => {
         try {
-            const res = await fetch(urlEndpoint + cityToSearch + apiKeyFetch)
+            const res = await fetch(urlEndpoint + citySearched + apiKeyFetch)
             console.log(res)
             if (!res.ok) {
                 setPageState(PAGE_STATES.SEARCH_ERROR)
@@ -44,13 +44,6 @@ function Main() {
             console.log("error")
         }
     }
-
-
-    useEffect(() => {
-        if (citySearched !== "") {
-            console.log(citySearched)
-        }
-    }, [citySearched])
 
     function clickHandler() {
         setCitySearched(inputSearch)
