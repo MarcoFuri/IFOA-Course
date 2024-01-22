@@ -68,11 +68,11 @@ function Main() {
 
 
             {pageState === PAGE_STATES.INITIAL_STATE &&
-                <h1 className="m-5 text-nowrap">Welcome to the newest <span className="fw-bold display-3">Weather App</span></h1>}
+                <h1 className="m-5">Welcome to the newest <span className="fw-bold display-3">Weather App</span></h1>}
 
             {/* if the city doesn't exist*/}
             {pageState === PAGE_STATES.SEARCH_ERROR &&
-                <h1 className="m-5 text-nowrap">I'm sorry, your research "{citySearched}" doesn't exist.</h1>}
+                <h1 className="m-5">I'm sorry, your research "{citySearched}" doesn't exist.</h1>}
                 
             {pageState === PAGE_STATES.SEARCH_SUCCESS &&
                 <Container fluid>
