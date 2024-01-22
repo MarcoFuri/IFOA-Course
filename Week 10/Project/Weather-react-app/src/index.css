@@ -4,7 +4,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: #ebebeb;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .rounded-pill{
